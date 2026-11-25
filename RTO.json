@@ -1,0 +1,16 @@
+{
+ "code": "M487",
+ "connector": "RTO-144",
+ "type": "M487 Dual Master Module",
+ "series": null,
+ "contacts": "",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M487/M487.rto144.json"
+ ]
+}
