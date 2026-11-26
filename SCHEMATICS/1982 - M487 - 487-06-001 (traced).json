@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/SUMMING/M487/SCHEMATICS/1982 - M487 - 487-06-001.jpg",
+ "version": 1,
+ "trace": "_traces/027384887085ee8b.svg",
+ "sheet": {
+  "number": "487-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1414, 2000],
+  "mm": [305.3, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.6, 286.5, 427.2],
+ "outlines": {
+  "line": {"rings": 1331, "straight": {"n": 7547, "mm": 13786.4}, "curved": {"n": 1785, "mm": 1701.0}},
+  "text": {"rings": 348, "straight": {"n": 1802, "mm": 1390.9}, "curved": {"n": 501, "mm": 508.7}}
+ },
+ "circles": [
+  {"c": [29.4, 218.7], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [217.0, 170.2], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [29.5, 231.1], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [59.0, 170.8], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [141.8, 201.1], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [63.3, 201.4], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [134.0, 241.5], "r": 1.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [31.0, 261.1], "r": 1.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [128.6, 178.8], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [129.7, 171.3], "r": 0.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [176.2, 250.0, 186.2, 260.8], "w": 10.0, "h": 10.8, "from": "ring"},
+  {"mm": [228.9, 249.8, 238.8, 260.6], "w": 9.9, "h": 10.8, "from": "ring"},
+  {"mm": [24.8, 235.8, 33.9, 244.6], "w": 9.1, "h": 8.9, "from": "ring"},
+  {"mm": [24.8, 205.1, 33.7, 214.2], "w": 8.9, "h": 9.1, "from": "ring"},
+  {"mm": [0.4, 57.0, 6.7, 73.2], "w": 6.3, "h": 16.2, "from": "ring"},
+  {"mm": [7.1, 57.0, 10.1, 73.2], "w": 3.0, "h": 16.2, "from": "ring"},
+  {"mm": [10.4, 57.0, 13.4, 73.2], "w": 3.0, "h": 16.2, "from": "ring"},
+  {"mm": [13.6, 57.0, 16.6, 73.0], "w": 3.0, "h": 16.0, "from": "ring"},
+  {"mm": [17.1, 57.0, 20.1, 73.0], "w": 3.0, "h": 16.0, "from": "ring"},
+  {"mm": [20.0, 4.0, 28.9, 73.0], "w": 8.9, "h": 68.9, "from": "ring"},
+  {"mm": [0.4, 50.3, 6.7, 56.8], "w": 6.3, "h": 6.5, "from": "ring"},
+  {"mm": [6.9, 4.3, 19.9, 56.6], "w": 13.0, "h": 52.2, "from": "ring", "words": ["Il"]},
+  {"mm": [29.4, 50.3, 32.4, 56.6], "w": 3.0, "h": 6.3, "from": "ring"},
+  {"mm": [1.9, 51.6, 5.0, 55.3], "w": 3.0, "h": 3.7, "from": "ring"},
+  {"mm": [0.4, 17.5, 6.7, 50.1], "w": 6.3, "h": 32.6, "from": "ring"},
+  {"mm": [29.4, 10.8, 32.4, 43.2], "w": 3.0, "h": 32.4, "from": "ring"},
+  {"mm": [29.4, 4.1, 32.4, 10.6], "w": 3.0, "h": 6.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [209.6, 247.0, 247.4, 258.3], "text": "04 08"},
+   {"mm": [45.6, 217.2, 55.3, 228.5], "text": "68"},
+   {"mm": [218.7, 217.6, 226.3, 226.3], "text": "788"},
+   {"mm": [42.7, 202.5, 58.5, 216.4], "text": "82"},
+   {"mm": [184.4, 206.4, 191.5, 211.7], "text": "72"},
+   {"mm": [161.7, 185.9, 172.5, 196.2], "text": "38"},
+   {"mm": [0.2, 24.6, 16.4, 49.6], "text": "Il"}
+  ]
+ },
+ "dots": [
+  {"c": [208.8, 275.4], "r": 0.7, "lines": 0},
+  {"c": [192.7, 254.0], "r": 0.5, "lines": 0},
+  {"c": [195.5, 210.0], "r": 0.7, "lines": 0},
+  {"c": [18.5, 60.2], "r": 0.7, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** component layout 487-06-001, size B (assumed) 305 × 432 mm, 1414 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–286 mm across, 1–427 mm up",
+  "- **Outlines:** line 1,331 rings, 7,547 straight (13,786 mm) / 1,785 curved (1,701 mm); text 348 rings, 1,802 straight (1,391 mm) / 501 curved (509 mm)",
+  "- **Circles and arcs:** 10 circles, 0 arcs; largest r 3.3 @ (29.4, 218.7), r 3.3 @ (217.0, 170.2), r 3.3 @ (29.5, 231.1), r 3.3 @ (59.0, 170.8)",
+  "- **Closed boxes:** 17; named: Il",
+  "- **Dots (junctions):** 4",
+  "- **Words (OCR):** 8 in 7 lines: 04 08 · 68 · 788 · 82 · 72 · 38 · Il"
+ ]
+}

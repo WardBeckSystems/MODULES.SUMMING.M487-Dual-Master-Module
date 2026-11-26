@@ -1,0 +1,41 @@
+{
+ "drawing": "Modules/SUMMING/M487/MANUALS/1982 - M487 - Dual Master Module.pdf",
+ "page": 11,
+ "version": 1,
+ "trace": "_traces/8392aab00b175d30-p11.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "11", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [15.6, 3.0, 288.9, 419.7],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 331, "mm": 2494.8}, "curved": {"n": 33, "mm": 52.8}},
+  "text": {"rings": 53, "straight": {"n": 471, "mm": 590.3}, "curved": {"n": 102, "mm": 159.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [15.8, 414.1, 128.9, 421.1], "text": "WAAD-BECK Systems LTD_"},
+   {"mm": [109.5, 229.1, 192.6, 237.0], "text": "8-109 AMPLIFIER SERIES"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 16–289 mm across, 3–420 mm up",
+  "- **Outlines:** line 5 rings, 331 straight (2,495 mm) / 33 curved (52.8 mm); text 53 rings, 471 straight (590 mm) / 102 curved (159 mm)",
+  "- **Words (OCR):** 4 in 2 lines: WAAD-BECK Systems LTD_ · 8-109 AMPLIFIER SERIES"
+ ]
+}

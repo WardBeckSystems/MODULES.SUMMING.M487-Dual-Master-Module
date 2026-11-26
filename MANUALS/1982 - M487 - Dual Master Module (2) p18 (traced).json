@@ -1,0 +1,76 @@
+{
+ "drawing": "Modules/SUMMING/M487/MANUALS/1982 - M487 - Dual Master Module (2).pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/a3be42193f7d25f0-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [15.1, 1.9, 288.7, 416.7],
+ "outlines": {
+  "line": {"rings": 146, "straight": {"n": 1572, "mm": 4339.8}, "curved": {"n": 355, "mm": 539.7}},
+  "text": {"rings": 282, "straight": {"n": 1925, "mm": 2139.5}, "curved": {"n": 617, "mm": 937.5}},
+  "tb": {"rings": 24, "straight": {"n": 163, "mm": 189.4}, "curved": {"n": 40, "mm": 63.9}}
+ },
+ "circles": [{"c": [83.1, 284.8], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 64,
+  "lines": [
+   {"mm": [14.9, 410.2, 60.5, 415.7], "text": "WARD -BEC"},
+   {"mm": [75.1, 410.2, 119.8, 415.7], "text": "YSTEMS LT"},
+   {"mm": [134.7, 367.7, 171.6, 372.7], "text": "PARTS LIST"},
+   {"mm": [120.0, 354.5, 193.9, 359.5], "text": "109 AMPL FIER SER ES"},
+   {"mm": [30.4, 341.6, 50.3, 346.6], "text": "8_1 09G"},
+   {"mm": [30.0, 327.5, 57.0, 332.6], "text": "All part"},
+   {"mm": [97.8, 327.5, 131.3, 332.6], "text": "109 excePI"},
+   {"mm": [150.9, 327.5, 164.1, 332.6], "text": "Oled"},
+   {"mm": [176.2, 327.5, 185.7, 332.6], "text": "low"},
+   {"mm": [30.2, 314.6, 45.6, 319.6], "text": "PART"},
+   {"mm": [62.4, 314.6, 100.6, 319.6], "text": "OESC IPT 1QN"},
+   {"mm": [217.2, 314.6, 278.1, 319.6], "text": "MF PART NUMBER"},
+   {"mm": [30.4, 300.7, 37.8, 308.7], "text": "cs"},
+   {"mm": [62.4, 301.4, 83.3, 306.4], "text": "Capaci"},
+   {"mm": [120.3, 301.8, 127.4, 306.9], "text": "pF"},
+   {"mm": [169.9, 301.4, 191.9, 306.4], "text": "Ph lips"},
+   {"mm": [30.4, 294.1, 40.2, 302.0], "text": "en"},
+   {"mm": [30.9, 144.0, 112.3, 149.3], "text": "WBS ecomme ds the se"},
+   {"mm": [139.9, 144.0, 205.5, 149.0], "text": "ac emen pa rts ma de"},
+   {"mm": [209.9, 144.2, 231.2, 149.3], "text": "by the"},
+   {"mm": [235.5, 144.0, 264.3, 149.0], "text": "ap\"'::ifi ed"},
+   {"mm": [30.9, 137.3, 202.7, 142.4], "text": "ma nufactu rers lo con inu ed OPtimum eQu ipr'l1ol!!n pe"},
+   {"mm": [206.6, 137.3, 237.3, 142.4], "text": "f.....m.nce."},
+   {"mm": [257.4, 51.8, 276.1, 60.0], "text": "ps"},
+   {"mm": [247.0, 41.5, 266.6, 51.8], "text": "BS"},
+   {"mm": [146.6, 20.5, 158.5, 25.5], "text": "109_"},
+   {"mm": [226.9, 21.4, 243.5, 27.9], "text": "tp"},
+   {"mm": [220.4, 14.9, 239.2, 21.4], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [9.0, 135.6, 49.0, 424.3],
+  "from": "title-block words (training set)",
+  "text": ["WARD -BEC", "8_1 09G", "All part", "PART", "cs", "en"]
+ },
+ "dots": [{"c": [162.5, 331.0], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 15–289 mm across, 2–417 mm up",
+  "- **Outlines:** line 146 rings, 1,572 straight (4,340 mm) / 355 curved (540 mm); text 282 rings, 1,925 straight (2,140 mm) / 617 curved (938 mm); tb 24 rings, 163 straight (189 mm) / 40 curved (63.9 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.5 @ (83.1, 284.8)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 64 in 28 lines: WARD -BEC · YSTEMS LT · PARTS LIST · 109 AMPL FIER SER ES · 8_1 09G · All part · 109 excePI · Oled · low · PART · OESC IPT 1QN · MF PART NUMBER",
+  "- **Title block:** (9, 136)–(49, 424) mm: WARD -BEC · 8_1 09G · All part · PART · cs · en"
+ ]
+}

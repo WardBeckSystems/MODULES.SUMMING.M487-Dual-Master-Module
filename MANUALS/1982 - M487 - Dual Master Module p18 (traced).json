@@ -1,0 +1,91 @@
+{
+ "drawing": "Modules/SUMMING/M487/MANUALS/1982 - M487 - Dual Master Module.pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/8392aab00b175d30-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [15.1, 2.2, 288.7, 416.7],
+ "outlines": {
+  "line": {"rings": 17, "straight": {"n": 574, "mm": 3152.6}, "curved": {"n": 72, "mm": 113.3}},
+  "text": {"rings": 421, "straight": {"n": 3021, "mm": 3467.9}, "curved": {"n": 924, "mm": 1413.3}},
+  "tb": {"rings": 4, "straight": {"n": 11, "mm": 9.9}, "curved": {"n": 10, "mm": 9.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 50,
+  "lines": [
+   {"mm": [15.1, 410.6, 128.5, 417.6], "text": "WARD-BECK systems LTD_"},
+   {"mm": [133.9, 367.5, 172.7, 374.4], "text": "PARTS LiST"},
+   {"mm": [111.6, 354.5, 168.8, 361.6], "text": "8-109 AMPL IFIER"},
+   {"mm": [171.2, 354.1, 195.2, 362.2], "text": "SERIES"},
+   {"mm": [29.1, 341.1, 51.8, 348.1], "text": "8-1096"},
+   {"mm": [90.0, 327.7, 143.8, 335.1], "text": "8-109 except 4s"},
+   {"mm": [146.2, 328.2, 186.8, 334.6], "text": "noted below"},
+   {"mm": [30.0, 327.7, 72.5, 334.3], "text": "AII parts 45"},
+   {"mm": [75.3, 328.4, 87.2, 333.9], "text": "per"},
+   {"mm": [29.1, 314.8, 46.9, 321.7], "text": "PART"},
+   {"mm": [61.5, 315.2, 100.8, 321.7], "text": "DESC IPTION"},
+   {"mm": [169.5, 315.2, 182.9, 321.7], "text": "MFG"},
+   {"mm": [217.0, 314.8, 279.2, 321.7], "text": "MFG PART NUMBER"},
+   {"mm": [29.1, 302.3, 38.2, 308.7], "text": "C6"},
+   {"mm": [61.5, 301.8, 116.8, 308.8], "text": "Capacitor 4 . 7"},
+   {"mm": [119.2, 301.8, 128.5, 308.8], "text": "pF"},
+   {"mm": [168.8, 301.2, 193.7, 308.9], "text": "Philips"},
+   {"mm": [216.3, 301.8, 264.3, 308.3], "text": "2222-638-09478"},
+   {"mm": [29.6, 295.4, 41.0, 301.8], "text": "CII"},
+   {"mm": [29.6, 282.4, 41.5, 288.9], "text": "R15"},
+   {"mm": [61.5, 282.4, 89.2, 288.9], "text": "Resistor"},
+   {"mm": [91.1, 282.4, 133.2, 289.4], "text": "1/4W 57 2K4"},
+   {"mm": [29.6, 144.2, 112.7, 151.1], "text": "WBS recommends the use"},
+   {"mm": [114.9, 143.6, 205.8, 151.2], "text": "of  replacement parts made"},
+   {"mm": [208.3, 142.9, 217.4, 149.9], "text": "by"},
+   {"mm": [220.6, 143.6, 231.9, 150.1], "text": "the"},
+   {"mm": [234.3, 143.6, 264.9, 150.5], "text": "specified"},
+   {"mm": [93.3, 137.1, 237.9, 144.8], "text": "continued optimum equipren performance."},
+   {"mm": [29.6, 137.7, 90.7, 144.2], "text": "manufacturcrs for"},
+   {"mm": [137.5, 19.4, 169.3, 26.4], "text": "8-109-2-5"}
+  ]
+ },
+ "title_block": {
+  "mm": [9.1, 136.0, 115.5, 426.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK systems LTD_",
+   "8-1096",
+   "AII parts 45",
+   "per",
+   "PART",
+   "DESC IPTION",
+   "C6",
+   "Capacitor 4 . 7",
+   "CII",
+   "R15",
+   "Resistor",
+   "1/4W 57 2K4",
+   "WBS recommends the use",
+   "manufacturcrs for"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 15–289 mm across, 2–417 mm up",
+  "- **Outlines:** line 17 rings, 574 straight (3,153 mm) / 72 curved (113 mm); text 421 rings, 3,021 straight (3,468 mm) / 924 curved (1,413 mm); tb 4 rings, 11 straight (9.9 mm) / 10 curved (9.6 mm)",
+  "- **Words (OCR):** 50 in 30 lines: WARD-BECK systems LTD_ · PARTS LiST · 8-109 AMPL IFIER · SERIES · 8-1096 · 8-109 except 4s · noted below · AII parts 45 · per · PART · DESC IPTION · MFG",
+  "- **Title block:** (9, 136)–(116, 426) mm: WARD-BECK systems LTD_ · 8-1096 · AII parts 45 · per · PART · DESC IPTION · C6 · Capacitor 4 . 7 · CII · R15 · Resistor · 1/4W 57 2K4 · WBS recommends the use · manufacturcrs for"
+ ]
+}

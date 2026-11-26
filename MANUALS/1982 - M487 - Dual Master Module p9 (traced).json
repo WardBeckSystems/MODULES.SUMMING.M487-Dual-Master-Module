@@ -1,0 +1,82 @@
+{
+ "drawing": "Modules/SUMMING/M487/MANUALS/1982 - M487 - Dual Master Module.pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/8392aab00b175d30-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.6, 17.0, 301.6, 431.8],
+ "outlines": {
+  "line": {"rings": 27, "straight": {"n": 773, "mm": 3317.3}, "curved": {"n": 80, "mm": 122.1}},
+  "text": {"rings": 384, "straight": {"n": 2979, "mm": 3540.1}, "curved": {"n": 824, "mm": 1260.4}},
+  "tb": {"rings": 12, "straight": {"n": 40, "mm": 42.3}, "curved": {"n": 13, "mm": 16.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [17.7, 407.0, 132.8, 414.1], "text": "WAAD-BECK bybtems LTD;"},
+   {"mm": [149.0, 363.1, 187.8, 370.7], "text": "PARTS List"},
+   {"mm": [122.4, 350.8, 157.6, 357.3], "text": "M4B? DUAL"},
+   {"mm": [160.4, 348.5, 215.3, 358.5], "text": "MASTER_MODULE"},
+   {"mm": [30.2, 324.9, 47.5, 331.4], "text": "PART"},
+   {"mm": [62.0, 324.9, 105.1, 331.4], "text": "DESCRIPTION"},
+   {"mm": [169.9, 324.3, 183.9, 330.8], "text": "MFG"},
+   {"mm": [254.1, 323.4, 280.0, 330.4], "text": "NUMBER"},
+   {"mm": [218.1, 323.9, 250.9, 330.3], "text": "MFG PART"},
+   {"mm": [30.2, 312.0, 42.1, 318.5], "text": "R73"},
+   {"mm": [62.0, 311.3, 89.6, 317.8], "text": "Resistor"},
+   {"mm": [95.0, 311.3, 108.0, 318.3], "text": "/4w"},
+   {"mm": [125.7, 311.3, 137.5, 317.8], "text": "240"},
+   {"mm": [169.0, 310.0, 194.1, 318.2], "text": "Philips"},
+   {"mm": [30.2, 298.4, 38.2, 304.9], "text": "U1"},
+   {"mm": [62.4, 297.7, 124.8, 305.2], "text": "Integrated Circuit"},
+   {"mm": [169.5, 297.9, 198.0, 304.4], "text": "National"},
+   {"mm": [217.4, 297.3, 245.5, 303.8], "text": "LMZOIAN"},
+   {"mm": [30.2, 291.9, 38.9, 298.4], "text": "42"},
+   {"mm": [217.2, 290.6, 236.8, 298.5], "text": "Lf356"},
+   {"mm": [30.2, 285.4, 38.9, 291.9], "text": "u3"},
+   {"mm": [217.0, 284.6, 245.7, 291.0], "text": "LM2OIAN"},
+   {"mm": [30.2, 278.9, 38.9, 285.4], "text": "U4"},
+   {"mm": [30.2, 272.0, 38.9, 278.5], "text": "45"},
+   {"mm": [217.0, 271.4, 236.8, 277.9], "text": "LF356"},
+   {"mm": [29.6, 259.1, 38.6, 265.6], "text": "u6"},
+   {"mm": [217.4, 258.2, 245.5, 264.7], "text": "LMZOIAN"},
+   {"mm": [29.1, 101.3, 84.4, 108.0], "text": "WBS recommends"},
+   {"mm": [87.2, 100.6, 112.5, 106.5], "text": "the use"},
+   {"mm": [114.9, 100.4, 122.4, 106.9], "text": "of"},
+   {"mm": [124.8, 99.7, 186.3, 107.4], "text": "replacement parts"},
+   {"mm": [189.3, 99.3, 231.9, 106.3], "text": "made by the"},
+   {"mm": [234.5, 99.3, 264.9, 107.0], "text": "specified"},
+   {"mm": [29.1, 94.6, 90.2, 101.0], "text": "manufacturers for"},
+   {"mm": [93.3, 92.8, 235.8, 100.9], "text": "continued optimur equipment performance"},
+   {"mm": [161.3, 15.5, 172.7, 22.0], "text": "3-4"}
+  ]
+ },
+ "title_block": {
+  "mm": [11.8, 92.8, 76.7, 422.6],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK bybtems LTD;", "PART", "R73", "Resistor", "U1", "42", "u3", "U4", "45", "u6", "WBS recommends", "manufacturers for"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–302 mm across, 17–432 mm up",
+  "- **Outlines:** line 27 rings, 773 straight (3,317 mm) / 80 curved (122 mm); text 384 rings, 2,979 straight (3,540 mm) / 824 curved (1,260 mm); tb 12 rings, 40 straight (42.3 mm) / 13 curved (16.1 mm)",
+  "- **Words (OCR):** 47 in 36 lines: WAAD-BECK bybtems LTD; · PARTS List · M4B? DUAL · MASTER_MODULE · PART · DESCRIPTION · MFG · NUMBER · MFG PART · R73 · Resistor · /4w",
+  "- **Title block:** (12, 93)–(77, 423) mm: WAAD-BECK bybtems LTD; · PART · R73 · Resistor · U1 · 42 · u3 · U4 · 45 · u6 · WBS recommends · manufacturers for"
+ ]
+}
