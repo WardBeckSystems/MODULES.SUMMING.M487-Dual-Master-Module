@@ -23,7 +23,7 @@ Wiki page: [M487](../../../../PAGES/M487.md)
 - **Title block:** (281, 1)–(432, 72) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN P MaloNey] · M487 · ENG_ RKB · CKD. U · DUAL MASTER MODULE · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 487 -01-001
 - **Wiring (first pass):** 60 connected wire groups from 102 runs; labelled ends: 93 mm → 8.109C; 93 mm → 8.109C; 63 mm → FADER, (-15 dB), 8.109C; 62 mm → FADER, (-15dB), 8.109C; 42 mm → PRE
 
-Every curve, box, word and wire group: [1982 - M487 - 487-01-001 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1982%20-%20M487%20-%20487-01-001%20-%20DUAL%20MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1982 - M487 - 487-01-001 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - 487-01-001 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1982%20-%20M487%20-%20487-01-001%20-%20DUAL%20MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1982 - M487 - 487-01-001 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M487](../../../../PAGES/M487.md)
 - **Closed boxes:** 12
 - **Wiring (first pass):** 72 connected wire groups from 260 runs
 
-Every curve, box, word and wire group: [1982 - M487 - B 487-01-001 - M487 - DUAL MASTER MODULE - FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1982%20-%20M487%20-%20B%20487-01-001%20-%20M487%20-%20DUAL%20MASTER%20MODULE%20-%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1982 - M487 - B 487-01-001 - M487 - DUAL MASTER MODULE - FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - B 487-01-001 - M487 - DUAL MASTER MODULE - FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1982%20-%20M487%20-%20B%20487-01-001%20-%20M487%20-%20DUAL%20MASTER%20MODULE%20-%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1982 - M487 - B 487-01-001 - M487 - DUAL MASTER MODULE - FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

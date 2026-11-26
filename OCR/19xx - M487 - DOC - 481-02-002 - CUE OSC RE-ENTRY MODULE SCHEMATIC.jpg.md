@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (355, 20)–(432, 42) mm: issueldate · WBS WAAD-BECK Systems · M48 1B
 - **Wiring (first pass):** 138 connected wire groups from 873 runs, 1 dotted junctions; labelled ends: 80 mm → 10/25; 79 mm → R26, Cubsigh; 79 mm → C1ze, Gecop[, R37, R38; 77 mm → Cubsigh, Swvz; 71 mm → 82;
 
-Every curve, box, word and wire group: [19xx - M487 - DOC - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M487%20-%20DOC%20-%20481-02-002%20-%20CUE%20OSC%20RE-ENTRY%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M487 - DOC - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M487 - DOC - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M487%20-%20DOC%20-%20481-02-002%20-%20CUE%20OSC%20RE-ENTRY%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M487 - DOC - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

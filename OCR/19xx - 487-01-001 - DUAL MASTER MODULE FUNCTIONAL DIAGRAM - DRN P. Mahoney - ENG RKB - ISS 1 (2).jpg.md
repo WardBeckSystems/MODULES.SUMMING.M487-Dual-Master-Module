@@ -35,7 +35,7 @@ Wiki page: [M487](../../../../PAGES/M487.md)
 - **Title block:** (281, 1)–(432, 72) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN P MaloNey] · M487 · ENG_ RKB · CKD. U · DUAL MASTER MODULE · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 487 -01-001
 - **Wiring (first pass):** 60 connected wire groups from 101 runs; labelled ends: 79 mm → 8.109C; 63 mm → FADER, (-15 dB); 62 mm → FADER, (-15dB), 8.109C; 42 mm → PRE; 41 mm → PRE
 
-Every curve, box, word and wire group: [19xx - 487-01-001 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ENG RKB - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20487-01-001%20-%20DUAL%20MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ENG%20RKB%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `19xx - 487-01-001 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ENG RKB - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 487-01-001 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ENG RKB - ISS 1 (2) (traced).json](../SCHEMATICS/19xx%20-%20487-01-001%20-%20DUAL%20MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ENG%20RKB%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `19xx - 487-01-001 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ENG RKB - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

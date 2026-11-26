@@ -24,7 +24,7 @@ Wiki page: [M487](../../../../PAGES/M487.md)
 - **Title block:** (356, 0)–(432, 37) mm: 9181 · ELL · K4l42.4842 W4r 3000 · Eco " 1q · ISsue Date · REvISION · WBS WARD-BeCK ybteme · DRNPAISY · M487 · ENG · O1LI · DUAL MASTER MODULE · CKD,Pal · SCHEMATIC · SCALE · 487-02-001 · ISSUe
 - **Wiring (first pass):** 106 connected wire groups from 548 runs, 2 dotted junctions; labelled ends: 175 mm → 025, 22/25, C27, 20; 108 mm → Rzo<, MkS, 312, 15k-; 103 mm → czz, 68/10, R25, 5k; 98 mm → R1os, 15k<, c2, 352/6; 89 mm → 2e6, 246, 300, R48
 
-Every curve, box, word and wire group: [1982 - M487 - 487-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M487%20-%20487-02-001%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1982 - M487 - 487-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - 487-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M487%20-%20487-02-001%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1982 - M487 - 487-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

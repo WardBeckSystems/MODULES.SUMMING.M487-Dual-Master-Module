@@ -21,7 +21,7 @@ Wiki page: [M487](../../../../PAGES/M487.md)
 - **Words (OCR):** 125 in 116 lines: DIF · R27 &c · 2k · 03 · 02 · UI · LM2oI · LF356 · Lmzoi · Cit · ~(iib · rzi #lok 21542
 - **Title block:** (240, 0)–(351, 57) mm: [C4 · 3184 · Lco · ISSUE OATE · REVISION · WBS WARO-BeCK systeMS · ORN Mri 01/g · M487 · ENG. Mrw · DUAL · MASTER MODULE · CKD · COMPONENT LAYOUT · APP · SCALE · ISSUE · 487-06-001
 
-Every curve, box, word and wire group: [1982 - M487 - 487-06-001 - DUAL MASTER MODULE COMPONENT LAYOUT ENG (traced).json](../SCHEMATICS/1982%20-%20M487%20-%20487-06-001%20-%20DUAL%20MASTER%20MODULE%20COMPONENT%20LAYOUT%20ENG%20(traced).json) (the CAD file: `1982 - M487 - 487-06-001 - DUAL MASTER MODULE COMPONENT LAYOUT ENG (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - 487-06-001 - DUAL MASTER MODULE COMPONENT LAYOUT ENG (traced).json](../SCHEMATICS/1982%20-%20M487%20-%20487-06-001%20-%20DUAL%20MASTER%20MODULE%20COMPONENT%20LAYOUT%20ENG%20%28traced%29.json) (the CAD file: `1982 - M487 - 487-06-001 - DUAL MASTER MODULE COMPONENT LAYOUT ENG (traced).dxf`).
 
 ## Full text
 

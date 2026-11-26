@@ -20,7 +20,7 @@ Wiki page: [M487](../../../../PAGES/M487.md)
 - **Closed boxes:** 15
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1982 - M487 - 8-109-06-004 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1982%20-%20M487%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1982 - M487 - 8-109-06-004 - BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - 8-109-06-004 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1982%20-%20M487%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1982 - M487 - 8-109-06-004 - BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

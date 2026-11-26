@@ -21,7 +21,7 @@ Wiki page: [M487](../../../../PAGES/M487.md)
 - **Words (OCR):** 122 in 114 lines: E7 · E2 · -CI 33/1@ · 23/ · RI6 22k · 47k · 22k · LRi · R2 · CR18 · RS · 6k2
 - **Title block:** (150, 2)–(432, 142) mm: ES · WBS · 8-109 · 22o/iec16- · ECo493 · 494 · ML · ~R37 4k7 · ML · R36 · 4k7 · (ISSUE |DATE · REVISION · APP · E6 · WBS WARD-BECK SYSTEMS · DRN GEB · 8 ~ 109€ · ENG.MRW 4/78 · BOOSTER AMPLIFIER · CKD
 
-Every curve, box, word and wire group: [1982 - M487 - 8-109-06-004 - BOOSTER AMPLIFIER COMPONENT LAYOUT (traced).json](../SCHEMATICS/1982%20-%20M487%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1982 - M487 - 8-109-06-004 - BOOSTER AMPLIFIER COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - 8-109-06-004 - BOOSTER AMPLIFIER COMPONENT LAYOUT (traced).json](../SCHEMATICS/1982%20-%20M487%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1982 - M487 - 8-109-06-004 - BOOSTER AMPLIFIER COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

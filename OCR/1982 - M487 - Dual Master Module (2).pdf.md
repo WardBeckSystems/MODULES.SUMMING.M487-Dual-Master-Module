@@ -26,7 +26,7 @@ Wiki page: [M487](../../../../PAGES/M487.md)
 - **Words (OCR):** 76 in 37 lines: WARo-seCK SYSTEMS L.TO · TABLE OF CONTE NTS · 101487 DUAL. MASTER 1010 UL. · SECTION · PAGE · Techn ica Oata · I.-c it · Descript ion · 2-2 · Pa llJ · Con neclor L.ay ou · Ap pendi
 - **Title block:** (65, 38)–(263, 419) mm: WARo-seCK SYSTEMS L.TO · TABLE OF CONTE NTS · 101487 DUAL. MASTER 1010 UL. · PAGE · Techn ica Oata · I.-c it · Descript ion · 2-2 · Pa llJ · Con neclor L.ay ou · Ap pendi · 8_109 · ""rlp ion · 8_10 9_
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p1 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p1 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p1 
 - **Dots (junctions):** 2
 - **Words (OCR):** 198 in 83 lines: WARo-seCK YSTEMS LTC. · TECfiN ICAL. DATA · M4lI7 DUAL MASTER MOOULE · Ga · J8 dB · ri dgi ng gain). · eQ u~cy · spon 5e: · 0.5 dB from 20 Hz to 20 kH · ill- ilor-cd · en · Pon
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p2 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p2 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p2 
 - **Closed boxes:** 1
 - **Words (OCR):** 77 in 33 lines: WARO -BE CK YSTEMS LTO · ECHN CA DA TA · M487 DUA MAST ER MODUL · Cross lk Bet ween Sec ions · 70 · 30 Hz to 15 kH · Ph"s ing; · np · ee Ou tPU termina ls · na te · by numbftr" · in
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p3 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p3 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p3 
 - **Words (OCR):** 291 in 127 lines: WAAD-BECK SySTemS LTD · CIRcuIT DESCRIPTION · DUAL MASTER · MODULE · M487 · M487 Dual Master · Module accommodates Iwo seperale · The · signal · channels. It · designed t0 · receive the
 - **Title block:** (11, 315)–(205, 422) mm: WAAD-BECK SySTemS LTD · CIRcuIT DESCRIPTION · DUAL MASTER · MODULE · M487 · M487 Dual Master · Module accommodates Iwo seperale · The · channels. It · designed t0 · receive the · mixer feeds irom
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p4 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p4 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p4 
 - **Outlines:** line 117 rings, 1,422 straight (3,997 mm) / 276 curved (447 mm); text 496 rings, 3,539 straight (3,814 mm) / 1,104 curved (1,641 mm)
 - **Words (OCR):** 108 in 39 lines: WAFlO ·BeCI< YSTEMS LTO · IRCU IT OESCR IP ION · /101481 OUAL MAST ER /IoIOOULE · ower Su ply Oe< oup ll ng · An · uve · ow.,. · pp · dec oup n9 "etWOO"k consis ting · Ih roug · Q6 · l"Ov ldes iso la ion
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p5 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p5 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -77,7 +77,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p5 
 - **Words (OCR):** 89 in 63 lines: WARO ·BECK SYSTeMS LTO. · PARTS LIST · 104487 DUAL MASTER MODULE · PART · DESCRIPT ION · FO · "FO · PART NUMBER · co · Ca · ITor · 330 uF!6
 - **Title block:** (35, 395)–(114, 418) mm: WARO ·BECK SYSTeMS LTO.
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p6 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p6 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -87,7 +87,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p6 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (97.6, 326.0)
 - **Words (OCR):** 66 in 44 lines: WARO ·BECK YSTEM LTO · PARTS · IST · M487 DUAL MAST ER MODUL · PA RT · DESCR PT IO · PART NUMBER · rll · lor · Na li · PN3569 · Te
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p7 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p7 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -98,7 +98,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p7 
 - **Words (OCR):** 54 in 34 lines: WARO-BECK SYSTeMS LTD · PAR TS LIST · M48? DUAL MAST ER MODUL · PAR · DESCRI TI ON · FO · JolF PAR NU MBER · Re · tor 1/4W · Ph ips · ss · rs
 - **Title block:** (12, 397)–(117, 420) mm: WARO-BECK SYSTeMS LTD
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p8 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p8 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -108,7 +108,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p8 
 - **Words (OCR):** 54 in 38 lines: WAAD-BECK bybtems · LTD; · PARTS List · M48? · DUAL MASTER MODULE · PART · DESCRIPTION · MFG · MFG PART NUMBER · R73 · Resistor · /4w
 - **Title block:** (12, 93)–(77, 423) mm: WAAD-BECK bybtems · PART · R73 · Resistor · u1 · u2 · u3 · u4 · 45 · u6 · WBS
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p9 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p9 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -120,7 +120,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p9 
 - **Dots (junctions):** 2
 - **Words (OCR):** 137 in 74 lines: WAFlD-BECI< SYSTEMS · LTD. · PI CONNECTOR LAVOUT · /.4'81 DUA MAST ER MOOULE · SUMM NG · SUMMI NG · SEC TI ON · SHI EL · SH EL · SECTION · INPU TS · NP TS
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p10 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p10 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -130,7 +130,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p10
 - **Words (OCR):** 12 in 7 lines: WARD-BECK · SYSTEMS LTD · 109 AMPLIFI ER SERI ES · ps · BS · tp · ht
 - **Title block:** (11, 405)–(116, 428) mm: WARD-BECK · SYSTEMS LTD
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p11 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p11 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -142,7 +142,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p11
 - **Words (OCR):** 232 in 113 lines: WARD-BECK SYSTEMS · LTD · DESCR PT IO · 6_109 AM PL IFIER SER IE · he · 109 · ee-tes of II mpli ie.. li re ut ilized 11 lin internlll componen · ithin Val'IOU5 wa · se- tes · dio console mo · Each · 10
 - **Title block:** (10, 402)–(115, 425) mm: WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p12 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p12 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -154,7 +154,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p12
 - **Words (OCR):** 323 in 135 lines: WA~D -BECK YSTEMS LTD · DESCR IPT ION · -109 AMPLIFIER SERIE · Output Leve · +30 dBm m"x imu · Power R..quiremen ts: · 21.5 · vo lt · 18 rnA quiesc"nt cu ..ent. · 65 rnA · +30 dBm output. · Ambl"nt Temp .....,ture;
 - **Title block:** (38, 77)–(96, 425) mm: WA~D -BECK YSTEMS LTD · Output Leve · Power R..quiremen ts: · Ambl"nt Temp .....,ture; · im.. "ion · The · 09 comp se tw · 01 th ..ou · 04, · The · ine · buffer · to · In the majo.. lty of the _109 mo
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p13 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p13 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -164,7 +164,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p13
 - **Words (OCR):** 122 in 79 lines: WAFID-BECK SYSTEMS LTD · PART LI ST · 8_1 09 AMP LI FIER SERI ES · 109 · PAR · DESCRIPT ION · "FO · MF PART NUMBER · cr · Capac flQ<' · Kerne · 900 11€>M0 10A.S
 - **Title block:** (10, 402)–(115, 424) mm: WAFID-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p14 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p14 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -173,7 +173,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p14
 - **Outlines:** line 121 rings, 1,382 straight (4,040 mm) / 274 curved (419 mm); text 592 rings, 4,077 straight (4,524 mm) / 1,229 curved (1,837 mm)
 - **Words (OCR):** 73 in 48 lines: WA~O-BECK YSTEMS L.TO. · PAR TS LI ST · 8-109 A"'IPL IF IER SER IES · 8-109 · DESCR IPTtON · MF PART NUM~ · Resl slor 1!4W · Ph ip · ax · 2K · .oo · delet
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p15 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p15 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -185,7 +185,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p15
 - **Words (OCR):** 100 in 56 lines: WAFlO -BECK SYSTEMS LTO · PA RTS LI ST · _109 AMPL IFIER SER IES · 100A · pa"ls 8S · ee.. 8-109 excep as oted bt!low · OESCRI PTlON · MFG · MFG PART NUMBER · PAR · ce · of
 - **Title block:** (39, 404)–(119, 427) mm: WAFlO -BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p16 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p16 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -194,7 +194,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p16
 - **Outlines:** line 241 rings, 2,436 straight (6,038 mm) / 579 curved (914 mm); text 616 rings, 4,177 straight (4,622 mm) / 1,251 curved (1,871 mm)
 - **Words (OCR):** 114 in 62 lines: PAR TS LI ST · 8-109 AMPLIFIER SERIES · 8-1090 · ll parIS 115 per · 8-109 · nO I@d be low · PAR · DESCRIPT ION · MF PART NUMBER · ce · Ca acl · pF
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p17 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p17 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -206,7 +206,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p17
 - **Words (OCR):** 64 in 28 lines: WARD -BEC · YSTEMS LT · PARTS LIST · 109 AMPL FIER SER ES · 8_1 09G · All part · 109 excePI · Oled · low · PART · OESC IPT 1QN · MF PART NUMBER
 - **Title block:** (9, 136)–(49, 424) mm: WARD -BEC · 8_1 09G · All part · PART · cs · en
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p18 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p18 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -218,7 +218,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p18
 - **Words (OCR):** 63 in 44 lines: SUMMING IN PUT · FADER · --.,.---'\III\r---4 PGM · (-15dB) · SECTION · OUTPUTS · ~-.JVI.fV-":-~ PGM · +8dBm · EXTERNAL INPUT · 6000HMS · +8dBm · L..--.JVI.fV--4MONITOR
 - **Title block:** (283, 3)–(432, 71) mm: ISSUE DA TE · REVISION · APP. · [\NBS] WARD -BECK SYSTEMS · ps · BS · DRN.?M"~£I" · M487 · ENG. RKB · DUAL MASTER MODULE · CKD. · FUNCTIONAL · tp DIAGRAM · APP. · ht · SCALE · ISSUE · 8J -01 -00
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p19 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p19 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -231,7 +231,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p19
 - **Words (OCR):** 186 in 150 lines: NOT · .....LL · RE."!> ;~TC I<S · NL.. E.S · IT I<S · l"'='E · C.I F"I · I..-....S · 30 · ::'0Nl ;Ne · .1<7 · DE ~N.<lo,T
 - **Title block:** (356, 7)–(423, 36) mm: qlO, · 1f4r... · £0::0'; lq, · SOO · OSSL< OAT( · REVISION · VVBS) WARD"BI!CK · tp · .YII~ · ht Of · OftN:P~"" · M.4 87 · ENG.M&J · DUAL MASTER MODUlE · CK O·PA,.(. · SCHEMATIC
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p20 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p20 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -243,7 +243,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p20
 - **Words (OCR):** 151 in 114 lines: IF · Qtl-f!c: · l'!:o · ~oi' · 'tf] · 2.S · 35" · tt · EI! · j.l~ · RQ · II
 - **Title block:** (266, 0)–(351, 57) mm: BS lql · 318\ · 1<0 · ISSUE · OAT[ · IU VtSIQH · (VVI3S] WARO-SECK SYSTEMS · tp · IVl't · '00_ ht DUA MA STER MODULE · M48 · PO EN LAYO Ut · al 48 06-00 · ISSUE
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p21 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p21 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -255,7 +255,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p21
 - **Dots (junctions):** 1
 - **Words (OCR):** 143 in 126 lines: I3 · E.3 · +IB · 'CI · 1·5 · lolzs · 22 · N3 · El · G3 · N2 10 · 10
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p22 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p22 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -267,7 +267,7 @@ Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p22
 - **Words (OCR):** 89 in 68 lines: E7 · t:::J. · CJ · 33/10 · _C8 ~ep · '2Z.k · -RI AnK · -RIG:. · -R\8 · eeK · R5 · ~K2.
 - **Title block:** (247, 2)–(432, 87) mm: 2.0 111~1 · ISSUE DA TE · REVISION · APP. · (VVE3S] WARC-BECK SYSTEMS · ps · BS · DRN. EB · 109 · ENG.MRW 4/78 · BOOSTER AMPLIFIER · CK · Cf2.ttt<- · tp · COMPONENT LAYOUT · APP. · ht · SCALE · ISSUE 
 
-Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p23 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1982 - M487 - Dual Master Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - Dual Master Module (2) p23 (traced).json](../MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1982 - M487 - Dual Master Module (2) p23 (traced).dxf`).
 
 ## Full text
 

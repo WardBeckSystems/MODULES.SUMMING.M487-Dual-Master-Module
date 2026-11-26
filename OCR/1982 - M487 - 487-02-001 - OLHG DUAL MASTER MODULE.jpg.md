@@ -22,7 +22,7 @@ Wiki page: [M487](../../../../PAGES/M487.md)
 - **Dots (junctions):** 5
 - **Wiring (first pass):** 116 connected wire groups from 998 runs, 5 dotted junctions
 
-Every curve, box, word and wire group: [1982 - M487 - 487-02-001 - OLHG DUAL MASTER MODULE (traced).json](../SCHEMATICS/1982%20-%20M487%20-%20487-02-001%20-%20OLHG%20DUAL%20MASTER%20MODULE%20(traced).json) (the CAD file: `1982 - M487 - 487-02-001 - OLHG DUAL MASTER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M487 - 487-02-001 - OLHG DUAL MASTER MODULE (traced).json](../SCHEMATICS/1982%20-%20M487%20-%20487-02-001%20-%20OLHG%20DUAL%20MASTER%20MODULE%20%28traced%29.json) (the CAD file: `1982 - M487 - 487-02-001 - OLHG DUAL MASTER MODULE (traced).dxf`).
 
 ## Full text
 

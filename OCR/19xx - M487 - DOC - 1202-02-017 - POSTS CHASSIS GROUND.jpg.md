@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (64, 1)–(432, 69) mm: ISSUE DATE · REVISION · APp · SYSTEMS · BINDING · Posts · GROUND · CHASSIS M4BOB 1TO 12 PIN 22 #22 AWG GN · WBS WARD-BECK SySTEMB · 6 M487 · 162 · € M481B · AC · DRN JP Sep3z · GROUND · M482B 162 · EN
 - **Wiring (first pass):** 50 connected wire groups from 304 runs; labelled ends: 177 mm → PHANTOM POWER, M480c; 144 mm → BINDING; 135 mm → 25V, M487 MASTER, SIG COM; 133 mm → #16; 116 mm → M485B, POWER, SYSTEMS
 
-Every curve, box, word and wire group: [19xx - M487 - DOC - 1202-02-017 - POSTS CHASSIS GROUND (traced).json](../SCHEMATICS/19xx%20-%20M487%20-%20DOC%20-%201202-02-017%20-%20POSTS%20CHASSIS%20GROUND%20(traced).json) (the CAD file: `19xx - M487 - DOC - 1202-02-017 - POSTS CHASSIS GROUND (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M487 - DOC - 1202-02-017 - POSTS CHASSIS GROUND (traced).json](../SCHEMATICS/19xx%20-%20M487%20-%20DOC%20-%201202-02-017%20-%20POSTS%20CHASSIS%20GROUND%20%28traced%29.json) (the CAD file: `19xx - M487 - DOC - 1202-02-017 - POSTS CHASSIS GROUND (traced).dxf`).
 
 ## Full text
 

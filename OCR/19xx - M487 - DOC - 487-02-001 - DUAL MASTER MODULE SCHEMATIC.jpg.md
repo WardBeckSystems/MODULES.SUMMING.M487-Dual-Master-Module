@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (354, 24)–(432, 41) mm: WBS · WAAD-DeCk systeMS · M487
 - **Wiring (first pass):** 108 connected wire groups from 845 runs, 2 dotted junctions; labelled ends: 138 mm → R65, 470K, 22/25, C2; 120 mm → WBS, MASTER MODULE; 111 mm → R12;, 622, 03s6; 110 mm → 22/23, 027, 22/25, C2; 106 mm → 350/2, Iak, 4jok
 
-Every curve, box, word and wire group: [19xx - M487 - DOC - 487-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M487%20-%20DOC%20-%20487-02-001%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M487 - DOC - 487-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M487 - DOC - 487-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M487%20-%20DOC%20-%20487-02-001%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M487 - DOC - 487-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 
