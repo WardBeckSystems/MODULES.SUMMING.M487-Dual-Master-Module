@@ -13,6 +13,109 @@ Ward-Beck Systems M487, 1981|14. Wiki page: [M487 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 44 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [8 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1982 - M487 - Dual Master Module.pdf](MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module.pdf) page 2 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 38 dB t/ -0.5 dB (bridging gain) |
+| **Frequency response** | 0/-0.5 dB from 20 Hz to 20 kHz. (tailored frequency response) |
+| **Noise** | 72 dB below +8 dBm output level (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.257 THD from 30 Hz to 20 kHz at +24 dBm output or less. Less than 0.1% at kHz at +24 dBm outpul |
+| **Source impedances** |  |
+| &nbsp;&nbsp;Summing | External 30,000 ohms, balanced _ 600 ohms max imur, balanced. |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Summing external | Less than ohms. 600 ohms, balanced. |
+| &nbsp;&nbsp;Input level | External 48 dBm nominal, +24 dBm Maximum. |
+| **Output impedances** | Out #1: Out #2: vu/Monitor Out: 600 ohms, balanced. 600 ohms, balanced 600 ohms, balanced. |
+| **Load impedances** | Out #1: Out #2: VU/Monitor Out: 600 ohms, balanced 600 ohms, balanced Bridging, balanced (5000 ohms minimum) |
+| **Output level** | Out #1: Out #2: VU/Monitor Out: +8 dBm nominal +24 dBm maximum. +8 dBm nominal, +24 dBm maximum. +8 dBrr nominal, +24 dBm maximum. |
+
+## Circuit description
+
+From [1982 - M487 - Dual Master Module.pdf](MANUALS/1982%20-%20M487%20-%20Dual%20Master%20Module.pdf) pages 4-8 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M487 Dual Master Module accommodates IWo seperale signal channels Tt is designed to receive the mixer feeds irom the summing buses of an audio mixing console The [wo sections of the unit process and amplify their signals to standard Line levels. The outputs of the M487 supply the main outputs of the mixing console. Both channels operate in similar manner. The follow ing description refers specifically Lo SECTION Lout The signal originating from the external summing bus enters the module at Pins and of the connector and i5 applied to the sumi ing nodes af U1 and U2. An external 600 ohm input is also provided and appears at pins and of the module connector. The nominal level of this external input 15 +8 dBm while the summing input operates 4[ -15 dBm from 30k ohm current source U1 through u3 with their associated components provide actively balanced inputs 45 wel as balanced output. The outpul of the preamplifier operates at nominal Level of -10 dBm and appears at pins 10 and of the module connector Attenuator Insert The balanced INSERT point, provided between pins 10 &amp; Land 11 &amp; M of the connector permits the insertion of an external altenuator and the reference oscillator slating selector. Output The 8-109C output amplifier operates with gain of 39 dB Tt recovers the signal loss of the attenuator and provides additional gain to produce nominal output level of +8 dBm at the module outputs. The output from the 8-109C is divides Tnto three por(5. The first (PGM 1) is an actively balanced 600 ohm output prov 'ding the direct master output. The second (PGM 2) is low impedance output routed to the T12024 output line selector, while the third provides an Isolated monitoring and metering output.
+
+WAAD-BECK Bystems LTD; CIRcuiT DESCRIPTION
+
+Power SuPply DecoUpl ing An active power supply decoup | ing network consisting of 01 through 06 provides isolation between the module and the +/ -25 volts power supply Transistors 03 and 06 monitor the supply current. In the event of excessive power supply demands, such 45 from component failure or amplifier overdrive, the current flow ing through 01 and 04 will be Vimited_ CRI and CR2 guard against inadvertent application of reverse power supply voltages
+
+PARTS LiST
+
+**C1 C2 C3 C4 C5**
+
+Capacitor 330 uF/6 Kemet
+
+**1390F 337MOO6AS**
+
+47 pF Philips 2222-638-70479 C6 C7 C8 c9 C10 47 pF 4.7 pF 2222-638-09478 C1I C12 C13) C1b) C15 82 pF 2222-638-70829 delete Capacitor 47 pF 2222-638-70479
+
+**C16 C17 C18 C19 C20**
+
+6800 pF Aselco cQ92 MC-682m 6.8 pF 2222-638-09688
+
+**C21 C22 C23 C24 C25**
+
+68 uF/10 Kemnet
+
+**22 UF/25**
+
+Philips
+
+**CRI CRZ CR3 CR4**
+
+Diode Motorola
+
+**IN403**
+
+01 02 Transistor Tex. Inst. National
+
+**TIP29B PN3569**
+
+PARTS LiST
+
+**MFG PART NUMBER**
+
+03 04 05 06 Transistor National Tex. Inst. National PN3569 TiP30B PN3645
+
+**RI R2 R3 R4 RS**
+
+Resistor I/4w 5% 220k 220k 220k 220k 15k Philips R6 R7 R8 R9 R10 15k 15k 15k 15k 15k
+
+**RII R12 RIJ R14 R15**
+
+15k 15k 620 620 12K
+
+Trim Pot
+
+Piher PT 1Ov (2.5) 2k
+
+Resistor 1/4w 59 11K Philips
+
+Trim Pot
+
+Piher PT 10v (2.5) 2k
+
+**R20 R21 R22 R23 R24**
+
+Resistor '/4w 5% 11k 470k 470K 18K 18K Philips
+
+**R25 R26 R27 R28 R29**
+
+15k 15k 620 620 15k
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

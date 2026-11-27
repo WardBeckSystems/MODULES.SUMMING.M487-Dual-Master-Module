@@ -1,0 +1,222 @@
+{
+ "module": "M487",
+ "title": "M487 DUAL MASTER MODULE",
+ "source": {
+  "file": "MANUALS/1982 - M487 - Dual Master Module.pdf",
+  "page": 2
+ },
+ "ocr_quality": 0.97,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "38 dB t/ -0.5 dB (bridging gain)",
+   "quantities": [
+    {
+     "value": 38,
+     "unit": "dB"
+    },
+    {
+     "value": -0.5,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "0/-0.5 dB from 20 Hz to 20 kHz. (tailored frequency response)",
+   "quantities": [
+    {
+     "value": -0.5,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "72 dB below +8 dBm output level (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": 72,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.257 THD from 30 Hz to 20 kHz at +24 dBm output or less. Less than 0.1% at kHz at +24 dBm outpul",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing",
+     "text": "External 30,000 ohms, balanced _ 600 ohms max imur, balanced.",
+     "quantities": [
+      {
+       "value": 30000,
+       "unit": "ohms"
+      },
+      {
+       "value": 600,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing external",
+     "text": "Less than ohms. 600 ohms, balanced.",
+     "quantities": [
+      {
+       "value": 600,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing_external"
+    },
+    {
+     "name": "Input level",
+     "text": "External 48 dBm nominal, +24 dBm Maximum.",
+     "quantities": [
+      {
+       "value": 48,
+       "unit": "dBm"
+      },
+      {
+       "value": 24,
+       "unit": "dBm"
+      }
+     ],
+     "key": "input_level"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "Out #1: Out #2: vu/Monitor Out: 600 ohms, balanced. 600 ohms, balanced 600 ohms, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "Out #1: Out #2: VU/Monitor Out: 600 ohms, balanced 600 ohms, balanced Bridging, balanced (5000 ohms minimum)",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 5000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "Out #1: Out #2: VU/Monitor Out: +8 dBm nominal +24 dBm maximum. +8 dBm nominal, +24 dBm maximum. +8 dBrr nominal, +24 dBm maximum.",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1982 - M487 - Dual Master Module.pdf",
+   "page": 3
+  }
+ ]
+}
