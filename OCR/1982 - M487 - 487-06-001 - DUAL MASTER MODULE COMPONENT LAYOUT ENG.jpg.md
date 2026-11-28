@@ -1,5 +1,5 @@
 # 1982 - M487 - 487-06-001 - DUAL MASTER MODULE COMPONENT LAYOUT ENG.jpg
-Wiki page: [M487](../../../../PAGES/M487.md)
+Wiki page: [M487](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

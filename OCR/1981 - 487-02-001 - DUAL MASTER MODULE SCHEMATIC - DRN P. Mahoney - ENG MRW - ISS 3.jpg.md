@@ -1,5 +1,5 @@
 # 1981 - 487-02-001 - DUAL MASTER MODULE SCHEMATIC - DRN P. Mahoney - ENG MRW - ISS 3.jpg
-Wiki page: [M487](../../../../PAGES/M487.md)
+Wiki page: [M487](../)
 
 
 - **Year:** 1981 (title block date)

@@ -1,5 +1,5 @@
 # 1982 - M487 - 487-02-001 - OLHG DUAL MASTER MODULE.jpg
-Wiki page: [M487](../../../../PAGES/M487.md)
+Wiki page: [M487](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

@@ -1,5 +1,5 @@
 # 1982 - M487 - Dual Master Module (2).pdf
-Wiki page: [M487](../../../../PAGES/M487.md)
+Wiki page: [M487](../)
 
 
 - **Year:** 1982 (found in this file: "MANUAL ISSUE "2 BS W DECEMBER 1982")

@@ -1,5 +1,5 @@
 # 19xx - 487-01-001 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ENG RKB - ISS 1 (2).jpg
-Wiki page: [M487](../../../../PAGES/M487.md)
+Wiki page: [M487](../)
 
 
 - **Year:** unknown (title block (read by eye))

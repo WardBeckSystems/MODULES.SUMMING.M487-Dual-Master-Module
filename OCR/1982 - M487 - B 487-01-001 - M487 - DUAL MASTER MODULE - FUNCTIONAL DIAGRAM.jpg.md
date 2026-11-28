@@ -1,5 +1,5 @@
 # 1982 - M487 - B 487-01-001 - M487 - DUAL MASTER MODULE - FUNCTIONAL DIAGRAM.jpg
-Wiki page: [M487](../../../../PAGES/M487.md)
+Wiki page: [M487](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

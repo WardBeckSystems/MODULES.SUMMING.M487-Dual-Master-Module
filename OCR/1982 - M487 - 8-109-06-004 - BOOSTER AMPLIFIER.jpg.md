@@ -1,5 +1,5 @@
 # 1982 - M487 - 8-109-06-004 - BOOSTER AMPLIFIER.jpg
-Wiki page: [M487](../../../../PAGES/M487.md)
+Wiki page: [M487](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

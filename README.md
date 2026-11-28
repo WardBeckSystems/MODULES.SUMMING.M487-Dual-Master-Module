@@ -1,6 +1,6 @@
 # M487 Dual Master Module · Summing
 
-Ward-Beck Systems M487, 1981|14. Wiki page: [M487 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M487.html)
+Ward-Beck Systems M487, 1981|14. Wiki page: [M487 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M487-Dual-Master-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
